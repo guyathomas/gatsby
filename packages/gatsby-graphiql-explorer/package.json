@@ -41,7 +41,7 @@
     "babel-preset-gatsby-package": "^0.2.12",
     "cross-env": "^5.2.1",
     "css-loader": "^1.0.1",
-    "graphiql": "^0.16.0",
+    "graphiql": "^0.17.2",
     "graphiql-code-exporter": "^2.0.7",
     "graphiql-explorer": "^0.4.5",
     "html-webpack-plugin": "^3.2.0",
